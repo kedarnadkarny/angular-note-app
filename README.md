@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Screenshots
 ![alt text](https://github.com/kedarnadkarny/angular-note-app/blob/master/src/assets/screenshots/i1.jpeg "screen shot1")
+<<<<<<< HEAD
+=======
 
 ![alt text](https://github.com/kedarnadkarny/angular-note-app/blob/master/src/assets/screenshots/i2.png "screen shot2")
 
