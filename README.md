@@ -5,7 +5,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Screenshots
 ![shot1]https://github.com/kedarnadkarny/angular-note-app/blob/master/src/assets/screenshots/i1.jpeg
 
-![shot2]https://github.com/kedarnadkarny/angular-note-app/blob/master/src/assets/screenshots/i2.jpeg
+![shot2]https://github.com/kedarnadkarny/angular-note-app/blob/master/src/assets/screenshots/i2.png
+
+
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
 
 
 ## Setup Project on local computer
