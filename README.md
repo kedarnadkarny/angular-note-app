@@ -2,6 +2,39 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
+## Setup Project on local computer
+1. Open terminal and enter `git clone https://github.com/kedarnadkarny/angular-note-app.git`
+
+2. `cd angular-note-app`
+
+3. `npm install` to install all the dependencies
+
+4. Create a project on firebase and add your project details to environment.ts file
+```
+export const environment = {
+  production: false,
+    firebase: {
+        apiKey: "XXXXXXXXXXX-XXXXXXXXXXX",
+        authDomain: "project.yourapp.com",
+        databaseURL: "URLtoYourDatabase",
+        projectId: "projectID",
+        storageBucket: "BucketURL",
+        messagingSenderId: "messagingId"
+    }
+};
+```
+
+5. Change database rules in firebase to (Security warning!)-
+```
+{
+  "rules": {
+    ".read": true,
+    ".write": true
+  }
+}
+```
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
