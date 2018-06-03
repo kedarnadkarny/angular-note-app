@@ -3,19 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
 ## Screenshots
-![shot1]https://github.com/kedarnadkarny/angular-note-app/blob/master/src/assets/screenshots/i1.jpeg
+![alt text](https://github.com/kedarnadkarny/angular-note-app/blob/master/src/assets/screenshots/i1.jpeg "screen shot1")
 
-![shot2]https://github.com/kedarnadkarny/angular-note-app/blob/master/src/assets/screenshots/i2.png
-
-
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
+![alt text](https://github.com/kedarnadkarny/angular-note-app/blob/master/src/assets/screenshots/i2.png "screen shot2")
 
 ## Setup Project on local computer
 1. Open terminal and enter `git clone https://github.com/kedarnadkarny/angular-note-app.git`
