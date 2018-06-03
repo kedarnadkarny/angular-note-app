@@ -3,9 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
 ## Screenshots
-![shot1]https://github.com/kedarnadkarny/angular-note-app/blob/master/src/assets/screenshots/i1.jpeg
+![alt text](https://github.com/kedarnadkarny/angular-note-app/blob/master/src/assets/screenshots/i1.jpeg "screen shot1")
 
-![shot2]https://github.com/kedarnadkarny/angular-note-app/blob/master/src/assets/screenshots/i2.png
+![alt text](https://github.com/kedarnadkarny/angular-note-app/blob/master/src/assets/screenshots/i2.png "screen shot2")
 
 
 Here's our logo (hover to see the title text):
