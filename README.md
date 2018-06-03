@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
+## Screenshots
+![shot1](https://github.com/kedarnadkarny/angular-note-app/tree/master/src/assets/i1.jpeg)
+![shot2](https://github.com/kedarnadkarny/angular-note-app/tree/master/src/assets/i2.jpeg)
+
 ## Setup Project on local computer
 1. Open terminal and enter `git clone https://github.com/kedarnadkarny/angular-note-app.git`
 
